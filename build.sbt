@@ -1,5 +1,5 @@
 name := "sangria-marshalling-api"
-organization := "com.github.pjfanning..sangria"
+organization := "com.github.pjfanning.sangria"
 version := "1.0.4-SNAPSHOT"
 
 description := "Sangria Marshalling API"
